@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_text.xml",
-        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_text.xml"
-    },
-    {
         "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_top.xml",
         "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_top.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_text.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_text.xml"
     },
     {
         "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_center.xml",

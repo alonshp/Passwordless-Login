@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/Alon/.android/build-cache/6616ab834b3ac72449e3822ca346cc61f8a3e34c/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/Alon/.android/build-cache/6616ab834b3ac72449e3822ca346cc61f8a3e34c/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/Alon/.android/build-cache/6616ab834b3ac72449e3822ca346cc61f8a3e34c/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

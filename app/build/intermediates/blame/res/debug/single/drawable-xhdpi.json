@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo_surf_connect.png",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/drawable-xhdpi/logo_surf_connect.png"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_profile_empty.png",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/drawable-xhdpi/icon_profile_empty.png"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg_wave.png",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/drawable-xhdpi/bg_wave.png"
+    }
+]

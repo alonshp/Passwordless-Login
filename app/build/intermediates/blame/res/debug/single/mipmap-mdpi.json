@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_text.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_text.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_top.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_top.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_verify_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_verify_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_login_top.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_login_top.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_verified_code_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_verified_code_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/activity_account.xml",
+        "source": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_error_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_error_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_phone_login_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_phone_login_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_verify_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_verify_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_login_text.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_login_text.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_title.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_title.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_resend_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_resend_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_verifying_code_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_verifying_code_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_confirmation_code_input.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_confirmation_code_input.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_error_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_error_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_activity_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_static_content.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_static_content.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_confirmation_code_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_confirmation_code_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_phone_country_code_item_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_phone_country_code_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/Alon/.android/build-cache/f9222905bfc61d774a3d77ee88abae1b6c275a96/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_sending_code_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_sending_code_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_login_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_login_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_phone_country_code_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_phone_country_code_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_email_login_bottom.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_email_login_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_confirmation_code_top.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_confirmation_code_top.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_sent_code_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_sent_code_center.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/layout/com_accountkit_fragment_confirmation_code_center.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/layout/com_accountkit_fragment_confirmation_code_center.xml"
+    }
+]

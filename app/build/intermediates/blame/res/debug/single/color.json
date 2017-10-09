@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Alon/.android/build-cache/35cb59161a2f7a445de354ed86a92a71495aecfd/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/35cb59161a2f7a445de354ed86a92a71495aecfd/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/Alon/.android/build-cache/3d62a6ed3de93f33f53d182b1913ac838f0baf3f/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/Alon/.android/build-cache/35cb59161a2f7a445de354ed86a92a71495aecfd/output/res/color/common_google_signin_btn_tint.xml"
+    }
+]

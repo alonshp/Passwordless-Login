@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/6616ab834b3ac72449e3822ca346cc61f8a3e34c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_868274540cb5aaccf747a4834bdc2bb8e1b6d9ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/e0dee7b55477deee70631c6290025459b70db24a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_915070b8e48712fc66dc1bcab6f8004210ec1bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Desktop/Programs/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_31c7a960b8e4eef8316fdcce4a914f2f6919e6be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7ab9561fe9a8e0fc156e8ed15d6db156ab41c084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/c60eca523bc18405364634b6cc66d62dafa231d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fc4ed7e18b0d3b0e6692fe534424e90d5c90b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/54f347eaa0d144d25024648fcd9de259075ca5aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda8f4be7bcd295bf04ba1347da5d6a6934931b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Desktop/Programs/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.5.2/4a5b5caed312654f6aa2171d2f24e44785621d3d/libphonenumber-8.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5b5caed312654f6aa2171d2f24e44785621d3d">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-8.5.2_328d623c36a4b24e9e3bc75bfe5658e126187b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Desktop/Programs/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_388105a69fb9e972071c2c8c2e7d5db24fbb6d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f952f0088f5e1ce9518577f9a478ab0c5173382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/e4e357717da6d2c1bbef8f2af3dfd94e8fc64eaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_542a5d5bef78a8cd00013e2501aebdd475b5799c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e60b1d62208e7d0ee20e5db9bdbbe32f4a0f97e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/2baa496fedb7d3145f9116fe2a72a4b5a4ac136a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4660206a68f2bc0c771e40dfa370056ec1b0f5cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/044b61ded34a522bc352f678604ebfaf39f83146/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e517cfd6227b09d5e5aa53ffb95bd2416952bd3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/e4ce56b3d8eef0da3704d2919f9ac8400e9f1d3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eae0cb59d4823a9cb0f07fa88ff34d935932a2b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="958e887ed296c58ed9496ad02fc62e7b2342d403">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f86bb4e5ccc1ae74030bdfbbe0348bfc07aff030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38e2653c3234e949a30c7ef3663f8c616b560918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc5dc7b7864ab276552110b92cfcea6c7eb77908">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d8b3de2a6f2257a1b863029baa2469f495f4735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/3d62a6ed3de93f33f53d182b1913ac838f0baf3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c300bfdd0ac8d72fdac600bc946a77efe8ca6638/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/76cd07b822eff125f26cb2688eedfe4f1741a97a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_776241568183285fb2147dcffcc2517ef5d4b7b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/6b04a4915e58d787e4f2bbcf4be326b8c3f9367e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f3c078121746f4b23ad72b346ca546d2b58afe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/35cb59161a2f7a445de354ed86a92a71495aecfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_716c51ca73bee5571c28ee7aca7142743ebf2d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/b58edb7d01f0af208f5e75b080aad2941fca20b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1ac8528a6c35e680cd506a440fbacdc344d7ec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/Desktop/Programs/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_1020252a2105a4bae4feba83a512958a085d7419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/f9222905bfc61d774a3d77ee88abae1b6c275a96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_358ee2654208c29ef2edff112086885b41503748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/0bf6efd37850ddf95338484983c796f4a309bce8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fd2fb2a843625ca316285d7bea72fae536ce4c2/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_input_cursor.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/drawable-v21/com_accountkit_input_cursor.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_progress_complete.xml",
+        "source": "/Users/Alon/.android/build-cache/a3bbf80fc32c6a4fdeca33fac409db507ef66afa/output/res/drawable-v21/com_accountkit_progress_complete.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Alon/.android/build-cache/42a16399dfaddb34dd0f535d6006018c2e2a903d/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Alon/.android/build-cache/1eb648c56ddaabee1cc6db14182dab43f38b8ed6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

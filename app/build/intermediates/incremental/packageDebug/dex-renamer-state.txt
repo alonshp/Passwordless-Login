@@ -1,0 +1,7 @@
+#Mon Oct 09 14:42:35 IDT 2017
+base.0=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e60b1d62208e7d0ee20e5db9bdbbe32f4a0f97e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d8b3de2a6f2257a1b863029baa2469f495f4735/classes.dex
+base.1=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d8b3de2a6f2257a1b863029baa2469f495f4735
+file.0=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5e60b1d62208e7d0ee20e5db9bdbbe32f4a0f97e/classes.dex

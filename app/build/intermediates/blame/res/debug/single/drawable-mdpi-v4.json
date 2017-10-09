@@ -12,12 +12,12 @@
         "source": "/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/res/drawable-mdpi-v4/com_facebook_close.png"
     },
     {
-        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_large_blue.png",
-        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
-    },
-    {
         "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
         "source": "/Users/Alon/.android/build-cache/35cb59161a2f7a445de354ed86a92a71495aecfd/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/Users/Alon/.android/build-cache/2510675b6c6f3ce4a2cb008600433af1e0c028a3/output/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",

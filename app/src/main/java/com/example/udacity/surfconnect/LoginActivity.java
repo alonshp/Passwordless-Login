@@ -6,16 +6,23 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.facebook.CallbackManager;
+import com.facebook.FacebookCallback;
+import com.facebook.FacebookException;
 import com.facebook.accountkit.AccessToken;
 import com.facebook.accountkit.AccountKit;
 import com.facebook.accountkit.AccountKitLoginResult;
 import com.facebook.accountkit.ui.AccountKitActivity;
 import com.facebook.accountkit.ui.AccountKitConfiguration;
 import com.facebook.accountkit.ui.LoginType;
+import com.facebook.login.LoginResult;
+import com.facebook.login.widget.LoginButton;
 
 public class LoginActivity extends AppCompatActivity {
 
     public static final int APP_REQUEST_CODE = 1;
+    LoginButton fbLoginButton;
+    CallbackManager fbCallbackManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,9 +30,33 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
         FontHelper.setCustomTypeface(findViewById(R.id.view_root));
 
+        fbLoginButton = (LoginButton) findViewById(R.id.facebook_login_button);
+        fbLoginButton.setReadPermissions("email");
+
+        // Login Button callback registration
+        fbCallbackManager = CallbackManager.Factory.create();
+        fbLoginButton.registerCallback(fbCallbackManager, new FacebookCallback<LoginResult>() {
+            @Override
+            public void onSuccess(LoginResult loginResult) {
+                launchAccountActivity();
+            }
+
+            @Override
+            public void onCancel() {
+
+            }
+
+            @Override
+            public void onError(FacebookException error) {
+                // Display error
+                Toast.makeText(LoginActivity.this, error.getMessage(), Toast.LENGTH_LONG).show();
+            }
+        });
+
         // Check if Access Token already exists
-        AccessToken accessToken = AccountKit.getCurrentAccessToken();
-        if (accessToken != null){
+        AccessToken akAccessToken = AccountKit.getCurrentAccessToken();
+        com.facebook.AccessToken fbAccessToken = com.facebook.AccessToken.getCurrentAccessToken();
+        if (akAccessToken != null || fbAccessToken != null){
             launchAccountActivity();
         }
     }
@@ -75,5 +106,7 @@ public class LoginActivity extends AppCompatActivity {
                 launchAccountActivity();
             }
         }
+
+        fbCallbackManager.onActivityResult(requestCode,resultCode,data);
     }
 }

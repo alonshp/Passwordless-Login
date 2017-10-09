@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Alon/Desktop/Programs/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_3bd26545f6132c3ccb53100c24d5b77041b373f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Alon/.android/build-cache/b855ac19946f8fb0f00a2bcb1e476b38f7c80f61/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -151,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="dc5dc7b7864ab276552110b92cfcea6c7eb77908">
+        sha1="e4c34afdcd2ff3994d3871b272c3addd0a76ac15">
         <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d8b3de2a6f2257a1b863029baa2469f495f4735/classes.dex" />
     </item>
     <item
@@ -171,6 +180,15 @@
         revision="25.0.2"
         sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
         <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_776241568183285fb2147dcffcc2517ef5d4b7b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alon/.android/build-cache/27b379b1e9658460c1bf1b955d7f60db3a66a9d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9162aa6ff34f048bc98e6264c8ca87d2e49e4591/classes.dex" />
     </item>
     <item
         is-multidex="true"

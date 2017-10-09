@@ -7,7 +7,9 @@
     <string name="phone_label">Phone Number</string>
     <string name="email_label">Email</string>
     <string name="logout_label">Log Out</string>
+    <string name="name_lable">Name</string>
     <string name="FACEBOOK_APP_ID">168596230387507</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">ededd5a9ba366933e7175a43a9ddb43d</string>
     <string name="ak_login_protocol_scheme">ak168596230387507</string>
+    <string name="fb_login_protocol_scheme">fb168596230387507</string>
 </resources>

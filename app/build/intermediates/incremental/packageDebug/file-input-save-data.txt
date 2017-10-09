@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Oct 09 14:42:35 IDT 2017
+#Mon Oct 09 16:52:38 IDT 2017
 835.base=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
 100.set=JAVA_RESOURCE
 57.file=/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/com/google/i18n/phonenumbers/data/ShortNumberMetadataProto_HR

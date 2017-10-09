@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="24"
+    abi="x86"
+    api-level="25"
     build-mode="FULL"
     density="xxhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1507549348084"
+    timestamp="1507557154152"
     token="7390504651449659041"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1292" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="61" />
+        duration="905" />
     <task
         name="verifier"
-        duration="4" />
+        duration="0" />
 
-    <artifact
-        location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
     <artifact
         location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
         location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
@@ -62,16 +62,16 @@
 
     <build
         build-mode="FULL"
-        timestamp="1507549348084"
+        timestamp="1507557154152"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
             location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/Alon/Documents/Android/PasswordlessLoginAndroid/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
